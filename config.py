@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "25961801"))
-API_HASH = getenv("API_HASH", "c9d39e5cba88255416aad52f0d0e1cd8")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "7031870310"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/Khan_Sir_Free_Batch_Upsc")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/Khan_Sir_Free_Batch_Upsc")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "imStubborn0")
+API_ID = int(getenv("API_ID", "21907528"))
+API_HASH = getenv("API_HASH", "c72220e5fc935797399d0a530d80ad8e")
+BOT_TOKEN = getenv("BOT_TOKEN", "7913815289:AAH0h1-i6zy3sPlHLf6YWTg_LGaasKa6ptE")
+OWNER_ID = int(getenv("OWNER_ID", "7290350162"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://botbaby:botbaby@cluster0.zngip1b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/infinitygx_bot_support")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/gxinfinity_support")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Its_tg_seller")
 
 # Random Start Images
 IMG = [
